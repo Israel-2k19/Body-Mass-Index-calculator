@@ -1,4 +1,4 @@
-//This is a function that coverts input from the user and converts the input into results telling the user about their Body Mass Index. It converts input from the user about their weight (in Kilogram) and height (in meter square) and tells them their Body Mass Index (BMI), and what category their BMI is either; underweight, normal, overweight or obese.The formula to the equation is given as shown below:
+//This is a function that coverts input from the user telling the user about their Body Mass Index. It converts input from the user about their weight (in Kilogram) and height (in meter square) and tells them their Body Mass Index (BMI), and further tells them what category their BMI is either; underweight, normal, overweight or obese.The formula to the equation is given as shown below:
 
 //Body Mass Index formula = weight / height^2
 
